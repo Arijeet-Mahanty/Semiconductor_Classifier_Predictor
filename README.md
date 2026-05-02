@@ -33,7 +33,10 @@ To ensure the model doesn't simply predict "Pass" for every entry, I implemented
 Synthetic Minority Over-sampling Technique (SMOTE) to balance the training set.
 
 3. Modeling & Evaluation
-I compared three distinct models: Random Forest, Support Vector Machine (SVM), and Naive Bayes.
+
+I compared three distinct models:
+
+Random Forest, Support Vector Machine (SVM), and Naive Bayes.
 
 Random Forest proved to be robust against the high number of features and performed well after hyperparameter tuning.
 
